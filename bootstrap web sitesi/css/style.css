@@ -1,0 +1,59 @@
+*{
+    text-transform: capitalize;
+}
+.navbar-brand span{
+    color: hsl(191, 88%, 37%);
+}
+.resimslider{
+    height: 600px;
+}
+body{
+    padding-top: 50px;
+    font-family: "Raleway", sans-serif;
+}
+.hakkimizda{
+    background-color: #f2f2f2;
+}
+.ayrac{
+    border:none;
+    border-top:3px solid #191b1d;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.ibeyaz{
+    color: #191b1d;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+.igri{
+    color: #191b1d;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+.ekipCard{
+    margin-left: auto;
+    width: 300px;
+    cursor: pointer;
+}
+.ekipCard>img:hover{
+    opacity: 0.8;
+}
+.galeri{
+    background-color: #f2f2f2;
+}
+.figure:hover{
+    opacity: 0.8;
+}
+
+    
+    
+    
+
+
